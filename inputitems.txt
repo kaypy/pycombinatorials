@@ -1,0 +1,49 @@
+11
+some text
+checking how excel treats csv
+like spaces
+vv blank lines are ignored
+
+can we, have commas
+or misplaced apostraphe's
+dont even try double quotes...
+
+u
+kjgj
+kuyg
+jg
+ku
+kjgj
+2
+5
+6
+7
+8
+6
+5
+4
+7
+5
+5
+r
+g
+fg
+
+y
+g
+gg
+t
+f
+
+cvg
+hgfr
+rf
+
+f
+f
+ff
+f
+r
+t
+h
+
